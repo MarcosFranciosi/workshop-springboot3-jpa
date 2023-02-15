@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.franciosi.course","l":"CourseApplication"},{"p":"com.franciosi.course.entities","l":"User"},{"p":"com.franciosi.course.resources","l":"UserResource"}];updateSearchResults();

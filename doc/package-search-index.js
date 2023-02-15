@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.franciosi.course"},{"l":"com.franciosi.course.entities"},{"l":"com.franciosi.course.resources"}];updateSearchResults();
